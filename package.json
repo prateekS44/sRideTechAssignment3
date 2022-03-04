@@ -1,0 +1,15 @@
+{
+  "name": "problem3",
+  "version": "1.0.0",
+  "description": "sRideTech-problem3",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Prateek Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
